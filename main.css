@@ -1,8 +1,14 @@
 h1{
-   color:#dc143c
+   color:#dc143c;
+   font-size:50px;
+   border:solid 5px #98fb98;
+   background-color:#00ffff;
 }
 p{
-  color:#0000ff
+  color:#0000ff;
+  font-size:25px;
+  border:solid 5px #32cd32;
+  background-color:#00ffff;
 }
 
 
